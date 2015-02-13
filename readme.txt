@@ -1,5 +1,5 @@
 === Check Image Alt Text ===
-Contributors: (Hawaiian Information Consortium)
+Contributors: (Hawaii Information Consortium)
 Tags: ADA Compliance, Alternative Text, Alt Text, WCAG
 Requires at least: 3.0.1
 Tested up to: 4.1
